@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "elicitationDemo": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["index.js"],
+      "cwd": "${workspaceFolder}",
+      "dev": {
+        "watch": "*.js",
+        "debug": { "type": "node" }
+      }
+    }
+  }
+}

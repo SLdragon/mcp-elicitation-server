@@ -1,0 +1,25 @@
+{
+  "name": "mcp-elicitation-server",
+  "version": "1.0.0",
+  "description": "MCP server demonstrating elicitation support for user profile management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "elicitation",
+    "user-profile"
+  ],
+  "author": "Demo",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

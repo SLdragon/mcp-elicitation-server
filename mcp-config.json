@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "elicitation-demo": {
+      "command": "node",
+      "args": ["index.js"],
+      "env": {},
+      "capabilities": {
+        "elicitation": {}
+      }
+    }
+  }
+}
