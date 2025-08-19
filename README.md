@@ -1,6 +1,13 @@
-# MCP User Profile Management Server
+# MCP User Profile Management Server Showcasing Elicitation Capabilities
 
 A demonstration Model Context Protocol (MCP) server showcasing elicitation capabilities.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/ce89872b-a015-48a6-b56f-6be6fee44ff0
+
+
 
 ## Project Overview
 
