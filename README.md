@@ -7,7 +7,21 @@ A demonstration Model Context Protocol (MCP) server showcasing elicitation capab
 
 https://github.com/user-attachments/assets/ce89872b-a015-48a6-b56f-6be6fee44ff0
 
+## Key Point
 
+Ask response from user:
+
+<img width="1262" height="900" alt="Image" src="https://github.com/user-attachments/assets/3040712d-3a52-40bc-ba20-ef71baa8e851" />
+
+
+Collect info using command palette:
+
+<img width="1198" height="462" alt="Image" src="https://github.com/user-attachments/assets/0ff4ccfe-29ce-4580-a623-cb52fc5d2332" />
+
+
+Success:
+
+<img width="1254" height="692" alt="Image" src="https://github.com/user-attachments/assets/f29c7c78-cce0-4927-9cb6-b42754e06d8a" />
 
 ## Project Overview
 
