@@ -2,7 +2,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 
 import { ElicitationHelper } from './elicitation.js';
-import { createUserTool, listUsersTool } from './tools/userTools.js';
+import { createUserTool, listUsersTool, searchUsersTool } from './tools/userTools.js';
 import { createJobTool, listJobsTool } from './tools/jobTools.js';
 
 const server = new McpServer({
@@ -15,6 +15,7 @@ const elicitationHelper = new ElicitationHelper(server);
 
 createUserTool(server, elicitationHelper);
 listUsersTool(server);
+searchUsersTool(server, elicitationHelper);
 
 createJobTool(server, elicitationHelper);
 listJobsTool(server);
